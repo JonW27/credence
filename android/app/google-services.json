@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "590474678117",
+    "firebase_url": "https://mafia-990af.firebaseio.com",
+    "project_id": "mafia-990af",
+    "storage_bucket": "mafia-990af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590474678117:android:958554506b6a32cf",
+        "android_client_info": {
+          "package_name": "com.banh.credence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590474678117-8mrhd4bn25ge43tl884ppv7b541ers6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFEGMKJLSxHksEkoiNCUiPiTg7BT4ncvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
